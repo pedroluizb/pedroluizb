@@ -48,3 +48,5 @@ Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter
 ### 📫 Entre em Contato
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pe.deandrade)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bonipedro61@gmail.com)
+
+![(Clash win)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fclash%2Fclash-royale-emotes&psig=AOvVaw03Xb4d21RtFnGuDfjAZmFU&ust=1764202746569000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDY5sPFjpEDFQAAAAAdAAAAABAM)
