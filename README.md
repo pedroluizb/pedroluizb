@@ -1,5 +1,7 @@
 ## Olá! Sou o Pedro Luiz 👋
 
+<div align="center">
+  <h2>Contato</h2>
 Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melhor em cada projeto e tarefa.
 
 ### 🎓 Trajetória Profissional e Acadêmica
@@ -46,9 +48,8 @@ Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melh
 Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter ativo, no meu tempo livre gosto muito de praticar esportes como surfe e futebol.
 
 <div align="center">
-  <img <div align="center">
-  <picture>
-### 📫 Entre em Contato
+  <h2>Contato</h2>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pe.deandrade)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bonipedro61@gmail.com)
 
