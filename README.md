@@ -45,8 +45,11 @@ Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melh
 ### ⚡ Curiosidades
 Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter ativo, no meu tempo livre gosto muito de praticar esportes como surfe e futebol.
 
+<div align="center">
+  <img <div align="center">
+  <picture>
 ### 📫 Entre em Contato
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pe.deandrade)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bonipedro61@gmail.com)
 
-![(Clash win)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fclash%2Fclash-royale-emotes&psig=AOvVaw03Xb4d21RtFnGuDfjAZmFU&ust=1764202746569000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDY5sPFjpEDFQAAAAAdAAAAABAM)
+  <img style="border: 200px solid red" align="right" height="172" width="166" src="https://i.pinimg.com/originals/84/9f/5f/849f5ff69ded3324df439b8fbd423428.gif">
