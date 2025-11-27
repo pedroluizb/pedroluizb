@@ -1,7 +1,7 @@
 ## Olá! Sou o Pedro Luiz 👋
 
 <div align="center">
-  <h2>Contato</h2>
+  
 Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melhor em cada projeto e tarefa.
 
 ### 🎓 Trajetória Profissional e Acadêmica
