@@ -54,38 +54,6 @@ Atualmente faço um curso de 2 anos no **CentroWEG** e estou em constante aprend
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=pedroluizb&theme=shadow_red&hide_border=false" alt="Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluizb&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" />
-
-<br/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=pedroluizb&limit=5&theme=shadow_red&combine_all_yearly_contributions=true" alt="Contribuições" />
-
-</div>
-
----
-
-## 🟡 Gráfico de Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroluizb/pedroluizb-commits/output/dist/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroluizb/pedroluizb-commits/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/pedroluizb/pedroluizb-commits/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
----
-
 ## 📬 Contato
 
 <div align="center">
