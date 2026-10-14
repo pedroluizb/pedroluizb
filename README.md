@@ -10,7 +10,6 @@ Desenvolvedor dedicado e em constante aprendizado, focado em entregar o meu melh
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=pedroluizb&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pedroluizb&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluizb&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
@@ -55,4 +54,4 @@ Fato Curioso: Embora meu trabalho seja no mundo digital (IT), eu adoro me manter
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pe.deandrade)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bonipedro61@gmail.com)
 
-  <img style="border: 200px solid red" align="right" height="172" width="166" src="https://i.pinimg.com/originals/84/9f/5f/849f5ff69ded3324df439b8fbd423428.gif">
+ 
